@@ -1,0 +1,35 @@
+2025-08-05 17:50:59,961 - INFO - Ingesting begin_inventory.csv into db
+2025-08-05 17:51:03,580 - INFO - Ingesting end_inventory.csv into db
+2025-08-05 17:51:14,582 - INFO - Ingesting purchases.csv into db
+2025-08-05 17:52:18,320 - INFO - Ingesting purchase_prices.csv into db
+2025-08-05 17:52:53,291 - INFO - Ingesting sales.csv into db
+2025-08-05 18:13:40,963 - INFO - Ingesting vendor_invoice.csv into db
+2025-08-05 18:13:41,243 - INFO - Ingestion complete
+2025-08-05 18:13:41,244 - INFO - Total time taken: 22.70 minutes
+2025-08-05 20:09:51,804 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-05 20:09:51,816 - WARNING - No such comm: 6d9197e4-687f-4424-92a3-3cbd1e5e8d17
+2025-08-05 20:09:51,817 - DEBUG - Current comms: []
+2025-08-05 20:51:18,587 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-05 20:51:18,594 - WARNING - No such comm: 60126908-271d-4ae3-9515-04f78f96442e
+2025-08-05 20:51:18,594 - DEBUG - Current comms: []
+2025-08-05 20:54:20,737 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-05 20:54:20,745 - WARNING - No such comm: f128a00d-af00-480c-9cbe-8404707849de
+2025-08-05 20:54:20,745 - DEBUG - Current comms: []
+2025-08-06 23:37:09,812 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-06 23:37:09,822 - WARNING - No such comm: f86bf5d7-c58d-4443-b0e6-c5be9c187583
+2025-08-06 23:37:09,822 - DEBUG - Current comms: []
+2025-08-07 15:18:03,133 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-07 15:18:03,144 - WARNING - No such comm: 5207d9ae-e7dd-4f64-b565-35e7c5a4d79b
+2025-08-07 15:18:03,144 - DEBUG - Current comms: []
+2025-08-07 19:08:11,616 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-07 19:08:11,634 - WARNING - No such comm: c93334d2-625d-4cba-98aa-3bc35b79289d
+2025-08-07 19:08:11,635 - DEBUG - Current comms: []
+2025-08-08 02:40:10,847 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-08 02:40:10,863 - WARNING - No such comm: 1e3ea20e-70e9-447e-ba44-8245299bbaa1
+2025-08-08 02:40:10,863 - DEBUG - Current comms: []
+2025-08-08 03:21:06,482 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-08 03:21:06,494 - WARNING - No such comm: 64a12f2e-0e13-4b6f-9ecc-87b007caf275
+2025-08-08 03:21:06,494 - DEBUG - Current comms: []
+2025-08-08 21:47:19,393 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-08 21:47:19,406 - WARNING - No such comm: 0e252c97-5a95-41a0-94e1-7df915cb6fb0
+2025-08-08 21:47:19,406 - DEBUG - Current comms: []
